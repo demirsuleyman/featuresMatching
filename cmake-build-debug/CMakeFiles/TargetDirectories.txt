@@ -1,0 +1,3 @@
+/home/demir/CLionProjects/featureMatching/cmake-build-debug/CMakeFiles/featureMatching.dir
+/home/demir/CLionProjects/featureMatching/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/demir/CLionProjects/featureMatching/cmake-build-debug/CMakeFiles/rebuild_cache.dir
